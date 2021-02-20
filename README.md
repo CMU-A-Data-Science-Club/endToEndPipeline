@@ -5,7 +5,7 @@ The purpose is provide a framework that can be applied to multiple ML problems f
 
 ### The Data
 The data used in this project is from a dataset of invoice data from Tunisia for Fraud Detection in Electricity and Gas Consumption, which is freely available on [Zindi.africa](https://zindi.africa) via [this](https://zindi.africa/competitions/ai-hack-tunisia-4-predictive-analytics-challenge-1) learning competition.
-You may join the competition to download the data, but we provide alternate links in our notebooks as well.
+You may join the competition to download the data.
 
 ### Scope
 This project covers 5 topic areas:
